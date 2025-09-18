@@ -1,6 +1,6 @@
 ﻿
 ```markdown
-![Kavez.PKCE Logo](logo.png)
+![Kavez.PKCE Logo](Logo.png)
 # Kavez.PKCE
 
 A lightweight and secure .NET library for generating PKCE code verifiers and challenges. Built for OAuth 2.0 flows in mobile, desktop, CLI, and web applications.
