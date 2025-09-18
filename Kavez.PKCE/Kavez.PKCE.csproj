@@ -4,6 +4,19 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- NuGet Metadata -->
+    <PackageId>Kavez.PKCE</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Mohammad Golikhatir</Authors>
+    <Company>Kavez</Company>
+    <Description>Secure and lightweight .NET PKCE library for OAuth 2.0 flows across platforms.</Description>
+    <PackageTags>PKCE;OAuth2;Security;Kavez</PackageTags>
+    <RepositoryUrl>https://github.com/mgolikhatir/Kavez.PKCE</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://www.linkedin.com/in/mgolikhatir/</PackageProjectUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <IncludeSource>true</IncludeSource>
   </PropertyGroup>
 
 </Project>
