@@ -1,5 +1,6 @@
 ﻿
 ```markdown
+![Kavez.PKCE Logo](logo.png)
 # Kavez.PKCE
 
 A lightweight and secure .NET library for generating PKCE code verifiers and challenges. Built for OAuth 2.0 flows in mobile, desktop, CLI, and web applications.
@@ -59,7 +60,6 @@ Kavez.PKCE/
 ├── Utils/
 │   └── CryptoUtils.cs
 ├── Kavez.PKCE.csproj
-├── README.md
 ```
 
 ## 📚 License
@@ -68,6 +68,6 @@ MIT © Kavez
 
 ## 🌍 About
 
-Created by [Mohammad](https://www.linkedin.com/in/...) to support secure, scalable OAuth flows across platforms.  
+Created by [Mohammad](https://www.linkedin.com/in/mgolikhatir) to support secure, scalable OAuth flows across platforms.  
 For contributions, issues, or feature requests, feel free to open a GitHub issue or pull request.
 ```
