@@ -15,9 +15,7 @@
     <RepositoryUrl>https://github.com/mgolikhatir/Kavez.PKCE</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://www.linkedin.com/in/mgolikhatir/</PackageProjectUrl>
-    <PackageReadmeFile>README.nuget.md</PackageReadmeFile>
     <IncludeSymbols>true</IncludeSymbols>
     <IncludeSource>true</IncludeSource>
   </PropertyGroup>
-
 </Project>
